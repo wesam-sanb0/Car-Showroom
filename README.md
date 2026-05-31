@@ -4,8 +4,8 @@ Desktop Java OOP project built with NetBeans, Swing, JDBC, and Apache Derby.
 
 ## Group Members
 
+- Wesam Sanbo
 - Shoaaa Essam Alkhutani
-- Wesam Kamal Sanbo
 - Bushra Ishaq
 - Layan Nawaf Al-Rowaily
 - Amal Saad Alghamdi

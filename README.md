@@ -30,13 +30,28 @@ Desktop Java OOP project built with NetBeans, Swing, JDBC, and Apache Derby.
 
 ## Project Structure
 
-- src/: Java source files and Swing forms
-- nbproject/: NetBeans project configuration
-- DatabaseProject/DatabaseProject.sql: Database schema and setup script
-- PurchaseInvoices/: Generated purchase invoice files
-- TestDriveInvoices/: Generated test-drive invoice files
-- build.xml: Ant build script
-- manifest.mf: JAR manifest
+```
+oop project 77/
+	oop project 5/
+		build.xml
+		manifest.mf
+		README.md
+		DatabaseProject/
+			DatabaseProject.sql
+		nbproject/
+			build-impl.xml
+			genfiles.properties
+			project.properties
+			project.xml
+		src/
+			images/
+			oop/
+				project/
+					*.java
+					*.form
+		PurchaseInvoices/
+		TestDriveInvoices/
+```
 
 ## Quick Start
 

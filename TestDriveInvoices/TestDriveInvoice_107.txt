@@ -1,0 +1,7 @@
+====== TEST DRIVE INVOICE ======
+Test Drive ID: ١٠٧
+Customer ID: ١
+Car ID: ٧
+Date: 2025-09-30
+Time: 04:00:00
+===============================

@@ -1,0 +1,8 @@
+========= PURCHASE INVOICE =========
+Order ID: 206
+Customer ID: 1
+Car ID: 7
+Total Price: $132500.0
+Status: Approved
+Order Date: 2025-05-05
+====================================

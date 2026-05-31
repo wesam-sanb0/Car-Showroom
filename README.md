@@ -2,6 +2,8 @@
 
 Desktop Java OOP project built with NetBeans, Swing, JDBC, and Apache Derby.
 
+This project was developed as a university group project.
+
 ## Group Members
 
 - Wesam Sanbo
@@ -66,6 +68,16 @@ oop project 77/
 
 Database connection values are configured in src/oop/project/personalQuery.java.
 
+## Project Status
+
+The current Apache Derby setup was smoke-tested for these flows:
+
+- Home page and navigation screens
+- Customer signup/login and employee signup/login
+- Car browsing, car details, and car management pages
+- Purchase order flow and purchase invoice generation
+- Test-drive booking flow and test-drive invoice generation
+  
 ## Notes
 
 - The build/ directory is generated output and should not be committed.
